@@ -24,6 +24,30 @@
       "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "dfd99357_83d7ec53",
+        "filename": ".github/repo_request.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-04-26T21:04:02Z",
+      "side": 1,
+      "message": "changed to your wording.",
+      "parentUuid": "bc63509d_ddfdfd17",
+      "range": {
+        "startLine": 2,
+        "startChar": 6,
+        "endLine": 2,
+        "endChar": 33
+      },
+      "revId": "1a60e4fd925115190b359a20a42aeae7b130fcf7",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f6230e5f_33650f80",
@@ -37,6 +61,30 @@
       "writtenOn": "2023-04-26T04:25:25Z",
       "side": 1,
       "message": "\"Provide a convincing argument to the community that a new subproject must be created\"",
+      "range": {
+        "startLine": 3,
+        "startChar": 7,
+        "endLine": 3,
+        "endChar": 56
+      },
+      "revId": "1a60e4fd925115190b359a20a42aeae7b130fcf7",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "949fd622_efdd3b0c",
+        "filename": ".github/repo_request.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-04-26T21:04:02Z",
+      "side": 1,
+      "message": "changed to your wording.",
+      "parentUuid": "f6230e5f_33650f80",
       "range": {
         "startLine": 3,
         "startChar": 7,
@@ -70,6 +118,30 @@
       "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "71ee443f_a2f69d4f",
+        "filename": ".github/repo_request.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-04-26T21:04:02Z",
+      "side": 1,
+      "message": "changed.",
+      "parentUuid": "7e6b571c_b66b8f74",
+      "range": {
+        "startLine": 9,
+        "startChar": 30,
+        "endLine": 9,
+        "endChar": 37
+      },
+      "revId": "1a60e4fd925115190b359a20a42aeae7b130fcf7",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "cca06fc0_35b23477",
@@ -83,6 +155,30 @@
       "writtenOn": "2023-04-26T04:25:25Z",
       "side": 1,
       "message": "I\u0027d prefer we be less specific and say \"at least two\" or something. I think 3 would be a stretch but if there are obvious candidates they\u0027d list them anyway?",
+      "range": {
+        "startLine": 12,
+        "startChar": 11,
+        "endLine": 12,
+        "endChar": 17
+      },
+      "revId": "1a60e4fd925115190b359a20a42aeae7b130fcf7",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "902d0193_de7a7430",
+        "filename": ".github/repo_request.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-04-26T21:04:02Z",
+      "side": 1,
+      "message": "changed to \"at least two\"",
+      "parentUuid": "cca06fc0_35b23477",
       "range": {
         "startLine": 12,
         "startChar": 11,
@@ -110,6 +206,24 @@
       "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "447b8b33_380daa2a",
+        "filename": ".github/repo_request.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-04-26T21:04:02Z",
+      "side": 1,
+      "message": "Can\u0027t link something that hasn\u0027t merged yet.......  I intend to link it once it is.",
+      "parentUuid": "a248ae12_f1da816a",
+      "revId": "1a60e4fd925115190b359a20a42aeae7b130fcf7",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e8ef3126_f8d11065",
@@ -123,6 +237,24 @@
       "writtenOn": "2023-04-26T20:37:56Z",
       "side": 1,
       "message": "One thing I\u0027ve been frustrated by a number of times and which just came up on Discord (https://discord.com/channels/775381525260664832/775381525260664836/1100877679512793179) is repos with missing or totally uninformative READMEs; I\u0027d be in favor of adding some stronger requirements so we have less \"what the heck even *is* this thing anyway?\" confusion.  I don\u0027t know if it\u0027s necessarily the right way to do that, but might we perhaps consider adding a (required) field in this form for some text to populate an initial README with?",
+      "revId": "1a60e4fd925115190b359a20a42aeae7b130fcf7",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7f60b95a_e1a9fb3e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-04-26T21:04:02Z",
+      "side": 1,
+      "message": "IMO, I think the \"maintain a valid readme\" needs to go in the maintainer requirements, not this repo request.  The assumption is the design doc has enough info for \"what is this thing\".  Happy to write up the request, I just don\u0027t want the \"request template\" to be dictating responsibilities when we have a responsibilities document (hopefully soon).  Hopefully that makes sense.",
+      "parentUuid": "e8ef3126_f8d11065",
       "revId": "1a60e4fd925115190b359a20a42aeae7b130fcf7",
       "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
     }
