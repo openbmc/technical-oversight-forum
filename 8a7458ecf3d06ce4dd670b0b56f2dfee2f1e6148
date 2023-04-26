@@ -24,6 +24,30 @@
       "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "57f6dc4c_d5299c6a",
+        "filename": ".github/bug_report.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-04-26T21:06:40Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "aa3d5bd0_b9638857",
+      "range": {
+        "startLine": 2,
+        "startChar": 6,
+        "endLine": 2,
+        "endChar": 39
+      },
+      "revId": "8a7458ecf3d06ce4dd670b0b56f2dfee2f1e6148",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a4ba8cb4_7f8be6b5",
@@ -37,6 +61,30 @@
       "writtenOn": "2023-04-26T04:32:47Z",
       "side": 1,
       "message": "Used to resolve a failure of community consensus on a specific technical issue",
+      "range": {
+        "startLine": 3,
+        "startChar": 7,
+        "endLine": 3,
+        "endChar": 28
+      },
+      "revId": "8a7458ecf3d06ce4dd670b0b56f2dfee2f1e6148",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "58f0bf6e_4a55fa42",
+        "filename": ".github/bug_report.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-04-26T21:06:40Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a4ba8cb4_7f8be6b5",
       "range": {
         "startLine": 3,
         "startChar": 7,
@@ -64,6 +112,24 @@
       "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
     },
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "44c4f882_4dcad931",
+        "filename": ".github/bug_report.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-04-26T21:06:40Z",
+      "side": 1,
+      "message": "Wordsmithed your words and stuck it in.  Not sure if it\u0027s exactly your intent, but maybe it\u0027s closer?",
+      "parentUuid": "ae0c459c_bfb068f8",
+      "revId": "8a7458ecf3d06ce4dd670b0b56f2dfee2f1e6148",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "38044e67_7daa92ea",
@@ -77,6 +143,24 @@
       "writtenOn": "2023-04-26T04:32:47Z",
       "side": 1,
       "message": "The comments only reflect my understanding of the intent, so potentially take them with a grain of salt.",
+      "revId": "8a7458ecf3d06ce4dd670b0b56f2dfee2f1e6148",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bc982301_cf81cf87",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-04-26T21:06:40Z",
+      "side": 1,
+      "message": "Salt mine aquired.",
+      "parentUuid": "38044e67_7daa92ea",
       "revId": "8a7458ecf3d06ce4dd670b0b56f2dfee2f1e6148",
       "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
     }
