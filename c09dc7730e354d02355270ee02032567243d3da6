@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bd7e2927_fb1a759b",
+        "filename": ".github/request_for_discussion.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1000009
+      },
+      "writtenOn": "2023-04-26T04:34:26Z",
+      "side": 1,
+      "message": "I think we should be clear that discussion should only be requested if the problem is not well-defined enough for a vote. If the problem is well defined then a vote should be requested instead.",
+      "revId": "c09dc7730e354d02355270ee02032567243d3da6",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    }
+  ]
+}
