@@ -1,0 +1,113 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bc63509d_ddfdfd17",
+        "filename": ".github/repo_request.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1000009
+      },
+      "writtenOn": "2023-04-26T04:25:25Z",
+      "side": 1,
+      "message": "\"Create a new repository\"?",
+      "range": {
+        "startLine": 2,
+        "startChar": 6,
+        "endLine": 2,
+        "endChar": 33
+      },
+      "revId": "1a60e4fd925115190b359a20a42aeae7b130fcf7",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f6230e5f_33650f80",
+        "filename": ".github/repo_request.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000009
+      },
+      "writtenOn": "2023-04-26T04:25:25Z",
+      "side": 1,
+      "message": "\"Provide a convincing argument to the community that a new subproject must be created\"",
+      "range": {
+        "startLine": 3,
+        "startChar": 7,
+        "endLine": 3,
+        "endChar": 56
+      },
+      "revId": "1a60e4fd925115190b359a20a42aeae7b130fcf7",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7e6b571c_b66b8f74",
+        "filename": ".github/repo_request.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000009
+      },
+      "writtenOn": "2023-04-26T04:25:25Z",
+      "side": 1,
+      "message": "s/pointer/link/",
+      "range": {
+        "startLine": 9,
+        "startChar": 30,
+        "endLine": 9,
+        "endChar": 37
+      },
+      "revId": "1a60e4fd925115190b359a20a42aeae7b130fcf7",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cca06fc0_35b23477",
+        "filename": ".github/repo_request.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000009
+      },
+      "writtenOn": "2023-04-26T04:25:25Z",
+      "side": 1,
+      "message": "I\u0027d prefer we be less specific and say \"at least two\" or something. I think 3 would be a stretch but if there are obvious candidates they\u0027d list them anyway?",
+      "range": {
+        "startLine": 12,
+        "startChar": 11,
+        "endLine": 12,
+        "endChar": 17
+      },
+      "revId": "1a60e4fd925115190b359a20a42aeae7b130fcf7",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a248ae12_f1da816a",
+        "filename": ".github/repo_request.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1000009
+      },
+      "writtenOn": "2023-04-26T04:25:25Z",
+      "side": 1,
+      "message": ":trollface: can we have a link to the minimum requirements?",
+      "revId": "1a60e4fd925115190b359a20a42aeae7b130fcf7",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    }
+  ]
+}
