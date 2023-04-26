@@ -108,6 +108,23 @@
       "message": ":trollface: can we have a link to the minimum requirements?",
       "revId": "1a60e4fd925115190b359a20a42aeae7b130fcf7",
       "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e8ef3126_f8d11065",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000733
+      },
+      "writtenOn": "2023-04-26T20:37:56Z",
+      "side": 1,
+      "message": "One thing I\u0027ve been frustrated by a number of times and which just came up on Discord (https://discord.com/channels/775381525260664832/775381525260664836/1100877679512793179) is repos with missing or totally uninformative READMEs; I\u0027d be in favor of adding some stronger requirements so we have less \"what the heck even *is* this thing anyway?\" confusion.  I don\u0027t know if it\u0027s necessarily the right way to do that, but might we perhaps consider adding a (required) field in this form for some text to populate an initial README with?",
+      "revId": "1a60e4fd925115190b359a20a42aeae7b130fcf7",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
     }
   ]
 }
