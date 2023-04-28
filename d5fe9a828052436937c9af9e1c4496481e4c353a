@@ -26,6 +26,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "50b6a7e2_f25256da",
+        "filename": ".github/repo_request.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-04-28T16:52:49Z",
+      "side": 1,
+      "message": "\u003e Should we maybe provide a slightly more explicit explanation that this is expected to be something already merged in the `designs/` directory of the docs repo?  (Assuming that\u0027s the intent.)\n\nI\u0027m not sure the actual merge is important, just that we have some consensus that this will be used in the future.\n\n\u003e \n\u003e Nits: \"Document\" is typo-ed, and it could use a period at the end like the others have.\n\nAdded the period.  Are you saying that Document should be capitalized?  That\u0027s what I did.",
+      "parentUuid": "4aa85190_e216c90a",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 11
+      },
+      "revId": "d5fe9a828052436937c9af9e1c4496481e4c353a",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "67ecfaa5_8b262f31",
         "filename": ".github/repo_request.md",
         "patchSetId": 3
@@ -37,6 +61,30 @@
       "writtenOn": "2023-04-28T01:24:13Z",
       "side": 1,
       "message": "Nit: s/applied/applicable/?",
+      "range": {
+        "startLine": 15,
+        "startChar": 34,
+        "endLine": 15,
+        "endChar": 41
+      },
+      "revId": "d5fe9a828052436937c9af9e1c4496481e4c353a",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "63cc794b_c7332a8b",
+        "filename": ".github/repo_request.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-04-28T16:52:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "67ecfaa5_8b262f31",
       "range": {
         "startLine": 15,
         "startChar": 34,
