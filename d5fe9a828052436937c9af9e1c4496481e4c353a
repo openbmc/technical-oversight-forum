@@ -50,6 +50,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "b1a2497e_bac73420",
+        "filename": ".github/repo_request.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000733
+      },
+      "writtenOn": "2023-04-28T19:48:51Z",
+      "side": 1,
+      "message": "\u003e I\u0027m not sure the actual merge is important, just that we have some consensus that this will be used in the future.\n\nOkay, that seems reasonable.\n\n\u003e Are you saying that Document should be capitalized? That\u0027s what I did.\n\nNo, I meant that the first instance of it it is currently misspelled as \"Dcoument\"...the mid-sentence one remaining un-capitalized is fine (slightly preferable I think).",
+      "parentUuid": "50b6a7e2_f25256da",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 11
+      },
+      "revId": "d5fe9a828052436937c9af9e1c4496481e4c353a",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "67ecfaa5_8b262f31",
         "filename": ".github/repo_request.md",
         "patchSetId": 3
