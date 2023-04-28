@@ -72,6 +72,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "a875a060_ebe5d603",
+        "filename": ".github/bug_report.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1000009
+      },
+      "writtenOn": "2023-04-28T01:42:38Z",
+      "side": 1,
+      "message": "It felt like something more concrete to me in terms what someone opening an issue against the TOF repo might want to happen. I guess I implicitly also felt it was odd to constrain it to policy? I might be off base with that though.",
+      "parentUuid": "67fe7893_d515a7cd",
+      "range": {
+        "startLine": 17,
+        "startChar": 53,
+        "endLine": 18,
+        "endChar": 44
+      },
+      "revId": "4e6bf603bda9e88b069cabc92b285e504d9f2f81",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "ace64e54_11d0bd4a",
         "filename": "/COMMIT_MSG",
         "patchSetId": 4
