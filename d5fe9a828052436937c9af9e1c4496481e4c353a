@@ -45,6 +45,23 @@
       },
       "revId": "d5fe9a828052436937c9af9e1c4496481e4c353a",
       "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "59e9cd49_f160a51b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-04-28T15:20:00Z",
+      "side": 1,
+      "message": "Other than the nits raised by Zev.",
+      "revId": "d5fe9a828052436937c9af9e1c4496481e4c353a",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
     }
   ]
 }
