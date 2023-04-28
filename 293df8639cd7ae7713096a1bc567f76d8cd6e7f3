@@ -70,6 +70,30 @@
       },
       "revId": "293df8639cd7ae7713096a1bc567f76d8cd6e7f3",
       "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dd3f95f0_596d04f3",
+        "filename": ".github/request_for_discussion.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-04-28T22:57:15Z",
+      "side": 1,
+      "message": "\u003e expectation that the ensuing discussion would take place in comments on that issue rather than on the ML.\n\nThis was not my understanding, and exactly why this template exists.  Discussions really need to happen on the mailing list.  Github doesn\u0027t have nearly enough visibility for wide ranging discussions.  This is just a \"request\" for discussion.",
+      "parentUuid": "d211dcbd_40f2882f",
+      "range": {
+        "startLine": 13,
+        "startChar": 70,
+        "endLine": 15,
+        "endChar": 30
+      },
+      "revId": "293df8639cd7ae7713096a1bc567f76d8cd6e7f3",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
     }
   ]
 }
