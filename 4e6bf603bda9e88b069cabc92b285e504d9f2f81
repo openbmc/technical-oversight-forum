@@ -48,6 +48,30 @@
       "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "766c2a56_8c2c8ec2",
+        "filename": ".github/bug_report.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1000733
+      },
+      "writtenOn": "2023-04-28T21:37:57Z",
+      "side": 1,
+      "message": "Alright, that\u0027s fine.",
+      "parentUuid": "4a9b77ea_1399ff71",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 6,
+        "endChar": 0
+      },
+      "revId": "4e6bf603bda9e88b069cabc92b285e504d9f2f81",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "3b1951fc_9b506cde",
@@ -156,6 +180,30 @@
       "side": 1,
       "message": "I\u0027m happy to do whichever you guys agree on, with a minor preference for Arjs wording.\n\ncan we go forward with what we have and treat things as diffs?  I\u0027d like to get this template in place, because having it even if it\u0027s imperfect is infinitely better than not having it.",
       "parentUuid": "a875a060_ebe5d603",
+      "range": {
+        "startLine": 17,
+        "startChar": 53,
+        "endLine": 18,
+        "endChar": 44
+      },
+      "revId": "4e6bf603bda9e88b069cabc92b285e504d9f2f81",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e7139518_75c2ca73",
+        "filename": ".github/bug_report.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1000733
+      },
+      "writtenOn": "2023-04-28T21:37:57Z",
+      "side": 1,
+      "message": "Okay -- I don\u0027t have any particularly strong feelings on which is the \"right\" way to go, I just felt like different parts of it were giving slightly different impressions of what it was meant to be used for.  We can certainly leave it as-is for now though.",
+      "parentUuid": "c228f30e_8c53064d",
       "range": {
         "startLine": 17,
         "startChar": 53,
