@@ -72,6 +72,30 @@
       "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "8b0eb7bd_8e2babcb",
+        "filename": ".github/repo_request.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-04-28T22:55:23Z",
+      "side": 1,
+      "message": "Wow.....   I\u0027m blind.  Fixed the typo.",
+      "parentUuid": "b1a2497e_bac73420",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 11
+      },
+      "revId": "d5fe9a828052436937c9af9e1c4496481e4c353a",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "67ecfaa5_8b262f31",
