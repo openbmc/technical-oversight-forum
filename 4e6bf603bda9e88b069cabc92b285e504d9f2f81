@@ -1,0 +1,90 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f5d5a1b6_caf6ad84",
+        "filename": ".github/bug_report.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1000733
+      },
+      "writtenOn": "2023-04-28T01:39:24Z",
+      "side": 1,
+      "message": "I don\u0027t know if there\u0027s an easy way for me (or anyone) to check this via some preview or something in github before it\u0027s merged, but is this formatting (unindented line continuing the previous one) going to be parsed as intended?\n\nAlso, seems like we might as well drop the blank line between `about` and `title` (unless it\u0027s needed for some weird reason of course).",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 6,
+        "endChar": 0
+      },
+      "revId": "4e6bf603bda9e88b069cabc92b285e504d9f2f81",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3b1951fc_9b506cde",
+        "filename": ".github/bug_report.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000733
+      },
+      "writtenOn": "2023-04-28T01:39:24Z",
+      "side": 1,
+      "message": "Nit: s/lead/led/",
+      "range": {
+        "startLine": 11,
+        "startChar": 52,
+        "endLine": 11,
+        "endChar": 56
+      },
+      "revId": "4e6bf603bda9e88b069cabc92b285e504d9f2f81",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "67fe7893_d515a7cd",
+        "filename": ".github/bug_report.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1000733
+      },
+      "writtenOn": "2023-04-28T01:39:24Z",
+      "side": 1,
+      "message": "Seems like we\u0027re waffling a bit here -- this seems to imply that this option is for fairly specific, concrete policy change requests, but the name change from \"Policy change request\" to \"Request a vote\" would suggest something more general-purpose.  I had thought we wanted this option to be a bit more geared toward concrete policy proposals (especially if we\u0027re also going to have the broader \"request for discussion\" option)... @arj, is there a particular reason you suggested the \"Request a vote\" name change?",
+      "range": {
+        "startLine": 17,
+        "startChar": 53,
+        "endLine": 18,
+        "endChar": 44
+      },
+      "revId": "4e6bf603bda9e88b069cabc92b285e504d9f2f81",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ace64e54_11d0bd4a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1000733
+      },
+      "writtenOn": "2023-04-28T01:39:24Z",
+      "side": 1,
+      "message": "Not particularly problematic if not, but was this intended to be referenced somewhere in the body paragraph?",
+      "revId": "4e6bf603bda9e88b069cabc92b285e504d9f2f81",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    }
+  ]
+}
