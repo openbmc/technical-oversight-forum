@@ -26,6 +26,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "4a9b77ea_1399ff71",
+        "filename": ".github/bug_report.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-04-28T16:59:27Z",
+      "side": 1,
+      "message": "\u003e I don\u0027t know if there\u0027s an easy way for me (or anyone) to check this via some preview or something in github before it\u0027s merged, but is this formatting (unindented line continuing the previous one) going to be parsed as intended?\n\nThis is how the github example templates do it.  If it doesn\u0027t preview correctly, I will follow up to fix it.  I don\u0027t know of any way to simulate this ahead of time, but I\u0027m not sure it\u0027s critical.\n\n\u003e \n\u003e Also, seems like we might as well drop the blank line between `about` and `title` (unless it\u0027s needed for some weird reason of course).\n\nI think it\u0027s needed to differentiate between the wrapped string and the key.  I\u0027m hesitant to change it until we\u0027ve seen it render.  If it\u0027s ok, I\u0027d like to leave it as-is.  It\u0027s just whitespace 😊",
+      "parentUuid": "f5d5a1b6_caf6ad84",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 6,
+        "endChar": 0
+      },
+      "revId": "4e6bf603bda9e88b069cabc92b285e504d9f2f81",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "3b1951fc_9b506cde",
         "filename": ".github/bug_report.md",
         "patchSetId": 4
@@ -37,6 +61,30 @@
       "writtenOn": "2023-04-28T01:39:24Z",
       "side": 1,
       "message": "Nit: s/lead/led/",
+      "range": {
+        "startLine": 11,
+        "startChar": 52,
+        "endLine": 11,
+        "endChar": 56
+      },
+      "revId": "4e6bf603bda9e88b069cabc92b285e504d9f2f81",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "055dcf54_46019ad3",
+        "filename": ".github/bug_report.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-04-28T16:59:27Z",
+      "side": 1,
+      "message": "Fixed.",
+      "parentUuid": "3b1951fc_9b506cde",
       "range": {
         "startLine": 11,
         "startChar": 52,
@@ -84,6 +132,30 @@
       "side": 1,
       "message": "It felt like something more concrete to me in terms what someone opening an issue against the TOF repo might want to happen. I guess I implicitly also felt it was odd to constrain it to policy? I might be off base with that though.",
       "parentUuid": "67fe7893_d515a7cd",
+      "range": {
+        "startLine": 17,
+        "startChar": 53,
+        "endLine": 18,
+        "endChar": 44
+      },
+      "revId": "4e6bf603bda9e88b069cabc92b285e504d9f2f81",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c228f30e_8c53064d",
+        "filename": ".github/bug_report.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-04-28T16:59:27Z",
+      "side": 1,
+      "message": "I\u0027m happy to do whichever you guys agree on, with a minor preference for Arjs wording.\n\ncan we go forward with what we have and treat things as diffs?  I\u0027d like to get this template in place, because having it even if it\u0027s imperfect is infinitely better than not having it.",
+      "parentUuid": "a875a060_ebe5d603",
       "range": {
         "startLine": 17,
         "startChar": 53,
