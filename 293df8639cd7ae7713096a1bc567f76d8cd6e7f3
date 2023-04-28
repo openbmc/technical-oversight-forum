@@ -46,6 +46,30 @@
       },
       "revId": "293df8639cd7ae7713096a1bc567f76d8cd6e7f3",
       "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d211dcbd_40f2882f",
+        "filename": ".github/request_for_discussion.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1000733
+      },
+      "writtenOn": "2023-04-28T21:57:24Z",
+      "side": 1,
+      "message": "\u003e it kind of is.\n\nOh -- if that\u0027s the general understanding that\u0027s fine with me, I had just assumed that filing a github issue for it would carry the expectation that the ensuing discussion would take place in comments on that issue rather than on the ML.",
+      "parentUuid": "27ce0000_d32f3241",
+      "range": {
+        "startLine": 13,
+        "startChar": 70,
+        "endLine": 15,
+        "endChar": 30
+      },
+      "revId": "293df8639cd7ae7713096a1bc567f76d8cd6e7f3",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
     }
   ]
 }
