@@ -20,6 +20,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "3fa8b283_7f022561",
+        "filename": ".github/bug_report.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-05-01T17:03:58Z",
+      "side": 1,
+      "message": "Not sure;  If it doesn\u0027t, I\u0027ll fix it, but I don\u0027t have a great way to simulate.",
+      "parentUuid": "61c7e442_ddd3019f",
+      "revId": "2a7d747b0a140a0b4fd5303da465cd7ba540ff91",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "dd0fc82e_b78b7767",
         "filename": ".github/bug_report.md",
         "patchSetId": 6
@@ -31,6 +49,30 @@
       "writtenOn": "2023-05-01T16:55:06Z",
       "side": 1,
       "message": "nit: no need for a comma here",
+      "range": {
+        "startLine": 14,
+        "startChar": 38,
+        "endLine": 14,
+        "endChar": 39
+      },
+      "revId": "2a7d747b0a140a0b4fd5303da465cd7ba540ff91",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "688db548_4f4701c4",
+        "filename": ".github/bug_report.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1000153
+      },
+      "writtenOn": "2023-05-01T17:03:58Z",
+      "side": 1,
+      "message": "fixed.",
+      "parentUuid": "dd0fc82e_b78b7767",
       "range": {
         "startLine": 14,
         "startChar": 38,
