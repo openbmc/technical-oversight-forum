@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0d47f9af_6148e8df",
+        "filename": ".github/repo_request.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1000276
+      },
+      "writtenOn": "2023-05-01T16:57:13Z",
+      "side": 1,
+      "message": "nit: no need for a comma here",
+      "range": {
+        "startLine": 15,
+        "startChar": 28,
+        "endLine": 15,
+        "endChar": 29
+      },
+      "revId": "b80e7621497b779d50504651b5a4369514c41225",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "01512720_5639d4d9",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000276
+      },
+      "writtenOn": "2023-05-01T16:57:13Z",
+      "side": 1,
+      "message": "nit: intended?",
+      "range": {
+        "startLine": 10,
+        "startChar": 30,
+        "endLine": 10,
+        "endChar": 40
+      },
+      "revId": "b80e7621497b779d50504651b5a4369514c41225",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    }
+  ]
+}
