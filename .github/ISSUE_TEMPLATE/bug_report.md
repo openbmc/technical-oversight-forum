@@ -1,7 +1,6 @@
 ---
 name: Request a vote
-about: Used to resolve a failure of community consensus on a specific technical
-issue
+about: Used to resolve a failure of consensus on a specific technical issue
 
 title: ""
 labels: ""
