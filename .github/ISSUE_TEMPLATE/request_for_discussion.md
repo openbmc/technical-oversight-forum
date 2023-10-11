@@ -2,7 +2,7 @@
 name: Request for Technical Oversight Forum discussion
 about: Create a request for discussion
 title: ""
-labels: ""
+labels: "discussion"
 assignees: ""
 ---
 

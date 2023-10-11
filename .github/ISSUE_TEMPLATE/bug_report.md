@@ -3,7 +3,7 @@ name: Request a vote
 about: Used to resolve a failure of consensus on a specific technical issue
 
 title: ""
-labels: ""
+labels: "vote"
 assignees: ""
 ---
 

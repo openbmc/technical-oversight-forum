@@ -4,7 +4,7 @@ about:
   Provide a convincing argument to the community that a new subproject must be
   created
 title: ""
-labels: ""
+labels: "repository"
 assignees: ""
 ---
 
