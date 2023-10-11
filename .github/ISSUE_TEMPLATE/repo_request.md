@@ -1,5 +1,5 @@
 ---
-name: Create a new respository
+name: Create a new repository
 about:
   Provide a convincing argument to the community that a new subproject must be
   created
